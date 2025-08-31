@@ -23,5 +23,16 @@ public class Test1 {
 	{
 		System.out.println("2nd-Test");
 	}
+	public void Demo2()
+	{
+		System.out.println("BYE");
+		System.out.println("BYE1");
+		System.out.println("BYE2");
+	}
+	@Test
+	public void thirdTest()
+	{
+		System.out.println("3rd-Test");
+	}
 
 }

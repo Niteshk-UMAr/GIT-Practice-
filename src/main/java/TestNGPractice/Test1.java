@@ -34,5 +34,16 @@ public class Test1 {
 	{
 		System.out.println("3rd-Test");
 	}
+	public void Demo3()
+	{
+		System.out.println("HAI");
+		System.out.println("HAI1");
+		System.out.println("HAI2");
+	}
+	@Test
+	public void fourthTest()
+	{
+		System.out.println("4th-Test");
+	}
 
 }

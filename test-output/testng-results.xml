@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-22T00:32:42 IST" name="Default suite" finished-at="2025-03-22T00:32:43 IST" duration-ms="49">
+    <groups>
+      <group name="Smoke">
+        <method signature="Test4.eigthTestHomeLoan()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" name="eigthTestHomeLoan" class="TestNGPractice.Test4"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-03-22T00:32:42 IST" name="Default test" finished-at="2025-03-22T00:32:43 IST" duration-ms="49">
+      <class name="TestNGPractice.Test4">
+        <test-method is-config="true" signature="bfSuite()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" started-at="2025-03-22T00:32:42 IST" name="bfSuite" finished-at="2025-03-22T00:32:42 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfSuite -->
+        <test-method is-config="true" signature="before()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" started-at="2025-03-22T00:32:42 IST" name="before" finished-at="2025-03-22T00:32:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="eigthTestHomeLoan()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" started-at="2025-03-22T00:32:42 IST" name="eigthTestHomeLoan" finished-at="2025-03-22T00:32:42 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eigthTestHomeLoan -->
+        <test-method signature="ninethTestHomeLoan()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" started-at="2025-03-22T00:32:42 IST" name="ninethTestHomeLoan" finished-at="2025-03-22T00:32:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ninethTestHomeLoan -->
+        <test-method signature="seventhTestHomeLoan()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" started-at="2025-03-22T00:32:42 IST" name="seventhTestHomeLoan" finished-at="2025-03-22T00:32:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seventhTestHomeLoan -->
+        <test-method is-config="true" signature="after()[pri:0, instance:TestNGPractice.Test4@6ae5aa72]" started-at="2025-03-22T00:32:42 IST" name="after" finished-at="2025-03-22T00:32:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- TestNGPractice.Test4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
